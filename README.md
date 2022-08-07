@@ -1,7 +1,8 @@
 # CMPG-323-Overview-30730333
 IT Development - Project(s) Overview
 
-Below is the information about repositories to be created and used per project
+## Below is the information about repositories to be created and used per project
+
 
 Project 1 (Agile & Scrum)
   Repo --> CMPG 323 Overview 30730333
