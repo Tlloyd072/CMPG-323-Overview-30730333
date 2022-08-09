@@ -21,7 +21,9 @@ IT Development - Project(s) Overview
   
   
   ## How will I deploy?
-  Everuything will be merged to master (main) branch.
+  Everything will be merged to the master (main) branch.
+  
+  ## Branching style
   
   ## Licence
   MIT lincence 
