@@ -16,7 +16,7 @@ IT Development - Project(s) Overview
  ## Project 4 (Testing and RPA)
   Repo --> Testing and RPA 30730333
   
- ## Project 5 (Reporting % Monitoring)
+ ## Project 5 (Reporting & Monitoring)
   Repo -->
   
   
