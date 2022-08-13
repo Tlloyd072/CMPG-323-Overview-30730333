@@ -24,11 +24,7 @@ IT Development - Project(s) Overview
   Everything will be merged to the master (main) branch.
   
   ## Branching style
-  All projects will be making use of the main & project development branches. 
-          ### Main branch
-          This is where the entire project wll be found.
-          ### Project Development 
-          in here will be work that is currently in progress and where debugging will take place. thereafter, it will be merged with the main branch once tested and             properly works.
+  All projects will be making use of the main & project development branches. The main branch is where the entire project wll be found. Project Development branch will be   work that is currently in progress and where debugging will take place. Thereafter, it will be merged with the main branch once tested and properly works.
   
   ## Licence
   MIT lincence 
