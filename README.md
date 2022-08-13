@@ -30,7 +30,7 @@ IT Development - Project(s) Overview
   MIT lincence 
   
   ## Private Credential storage
-  All private credentials will be clearly indicated on the document(s) and only collaborators will be permitted to view and used them incase of project testing
+  All private credentials will be clearly indicated on the document(s) and only collaborators will be permitted to view and used them for testing purposes.
   
   ### .gitignore file per project 
   ##Project 1
