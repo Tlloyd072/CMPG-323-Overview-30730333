@@ -23,13 +23,24 @@ IT Development - Project(s) Overview
   ## How will I deploy?
   Everything will be merged to the master (main) branch.
   
-  ## Branching style
-  All projects will be making use of the main & project development branch. The main branch is where the entire project wll be found. Project Development branch will      be   work that is currently in progress and where debugging will take place. Thereafter, it will be merged with the main branch once tested and properly works.
+  ## Branching strategy
+  For now all projects will be making use of the main & project development branch. The main branch is where the entire project wll be found. Project Development branch will be work that is currently in progress and where debugging will take place. Thereafter, it will be merged with the main branch once tested and properly works.
   
   ## Licence
   MIT lincence 
   
   ## Private Credential storage
+  All private credentials will be clearly indicated on the document(s) and only collaborators will be permitted to view and used them incase of project testing
   
-  ## .gitignore file 
+  ## .gitignore file per project 
+  Project 1
+  .gitignore file: stores confidential information such as the creation of kanban project 
+  Project 2
+  .gitignore file: stores confidential information such as clients's data captured on the database (data source) & (project close out)
+  Project 3
+  .gitignore file: stores confidential information such as (design pattern implementation), specifically the data that is being transferred and (project close out)
+  project 4
+  .gitignore file: stores confidential information such as raw data captured on the excel sheet (Read the input data)
+  project 5
+  .gitignore file: stores confidential information captured on the report to be created and configured as well the context of the data source.
  
