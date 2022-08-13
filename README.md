@@ -46,4 +46,7 @@ IT Development - Project(s) Overview
   .gitignore file: stores confidential information such as raw data captured on the excel sheet (Read the input data)
   ##project 5
   .gitignore file: stores confidential information captured on the report to be created and configured as well the context of the data source.
+  
+  ##Refecences
+  A reference list of sources used in the compilation of the projects will be attatched in the document.
  
