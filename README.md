@@ -47,6 +47,6 @@ IT Development - Project(s) Overview
   ##project 5
   .gitignore file: stores confidential information captured on the report to be created and configured as well the context of the data source.
   
-  ##Refecences
+  ## Refecences
   A reference list of sources used in the compilation of the projects will be attatched in the document.
  
