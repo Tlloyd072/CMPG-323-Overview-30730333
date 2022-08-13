@@ -25,9 +25,9 @@ IT Development - Project(s) Overview
   
   ## Branching style
   All projects will be making use of the main & project development branches. 
-          ## Main branch
+          ### Main branch
           This is where the entire project wll be found.
-          ## Project Development 
+          ### Project Development 
           in here will be work that is currently in progress and where debugging will take place. thereafter, it will be merged with the main branch once tested and             properly works.
   
   ## Licence
