@@ -32,15 +32,18 @@ IT Development - Project(s) Overview
   ## Private Credential storage
   All private credentials will be clearly indicated on the document(s) and only collaborators will be permitted to view and used them incase of project testing
   
-  ## .gitignore file per project 
-  Project 1
+  ### .gitignore file per project 
+  ##Project 1
   .gitignore file: stores confidential information such as the creation of kanban project 
-  Project 2
+  
+  ##Project 2
   .gitignore file: stores confidential information such as clients's data captured on the database (data source) & (project close out)
-  Project 3
+  
+  ##Project 3
   .gitignore file: stores confidential information such as (design pattern implementation), specifically the data that is being transferred and (project close out)
-  project 4
+  
+  ##project 4
   .gitignore file: stores confidential information such as raw data captured on the excel sheet (Read the input data)
-  project 5
+ ## project 5
   .gitignore file: stores confidential information captured on the report to be created and configured as well the context of the data source.
  
