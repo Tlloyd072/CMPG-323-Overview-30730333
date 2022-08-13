@@ -31,5 +31,5 @@ IT Development - Project(s) Overview
   
   ## Private Credential storage
   
-  ## ,gitignore file 
+  ## .gitignore file 
  
