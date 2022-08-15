@@ -14,7 +14,7 @@ IT Development - Project(s) Overview
   Repo --> [Standards and Patterns 30730333](https://github.com/Tlloyd072/Standards-and-Patterns-30730333.git)
   
  ## Project 4 (Testing and RPA)
-  Repo --> Testing and RPA 30730333
+  Repo --> [Testing and RPA 30730333](https://github.com/Tlloyd072/Testing-and-RPA-30730333.git)
   
  ## Project 5 (Reporting & Monitoring)
   Repo -->
