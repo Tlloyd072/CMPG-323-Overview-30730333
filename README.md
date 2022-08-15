@@ -8,7 +8,7 @@ IT Development - Project(s) Overview
    Repo --> [CMPG_323_Overview_30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git)
   
 ## Project 2 (API Development)
-  Repo --> API Dev 30730333
+  Repo --> [API_Dev_30730333](https://github.com/Tlloyd072/API-Dev-30730333.git)
   
 ## Project 3 (Standards & Patterns)
   Repo --> Standards and Patterns 30730333
@@ -17,7 +17,7 @@ IT Development - Project(s) Overview
   Repo --> Testing and RPA 30730333
   
  ## Project 5 (Reporting & Monitoring)
-  Repo -->
+  Repo --> 
   
   
   ## How will I deploy?
