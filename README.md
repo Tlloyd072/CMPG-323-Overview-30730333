@@ -28,7 +28,7 @@ IT Development - Project(s) Overview
   Everything will be merged to the master (main) branch.
   
   ## Branching strategy
-  For now all projects will be making use of two branches. The main branch wull contain all projects and the project development branch will contain code that is currently in progreass. Debbuging will also take place there. Once all files in the project development branch are fully functional and tested properly, only then will they be merged with the main branch. find branching strategy image attached.
+  For now all projects will be making use of two branches. The main branch wull contain all projects and the project development branch will contain code that is currently in progress. Debbuging will also take place there. Once all files in the project development branch are fully functional and tested properly, only then will they be merged with the main branch. find branching strategy image attached.
   
   ## Licence
   MIT lincence 
