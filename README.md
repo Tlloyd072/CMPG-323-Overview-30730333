@@ -30,5 +30,9 @@ IT Development - Project(s) Overview
   ## Branching strategy
   For now all projects will be making use of two branches. The main branch wull contain all projects and the project development branch will contain code that is currently in progress. Debbuging will also take place there. Once all files in the project development branch are fully functional and tested properly, only then will they be merged with the main branch. find branching strategy image attached.
   
+  ## gitignore file
+  All raw data that the user/client need not knwo about will be stored in this file as per project requirement.
+  
+  
   ## Licence
   MIT lincence 
