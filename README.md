@@ -27,7 +27,8 @@ IT Development - Project(s) Overview
   ## How will I deploy?
   Everything will be merged to the master (main) branch.
   
-  ## Branching style
+  ## Branching strategy
+  For now all projects will be making use of two branches. The main branch wull contain all projects and the project development branch wull contain code that is currently in progreass and where debbuging will take place. Once all files in the project development branch are fully functional and tested properly, only then they will be merged with the main branch.
   
   ## Licence
   MIT lincence 
