@@ -5,7 +5,7 @@ IT Development - Project(s) Overview
 
 
 ## Project 1 (Agile & Scrum)
-  Repo --> CMPG 323 Overview 30730333
+   CMPG 323 Overview 30730333 --> [Your_Link_here](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git)
   
 ## Project 2 (API Development)
   Repo --> API Dev 30730333
