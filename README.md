@@ -32,10 +32,10 @@ IT Development - Project(s) Overview
 
   
   ## gitignore file
-  All raw data that the user/client need not know about will be stored away in this file as per project requirement.
+  All raw data (records in the database) that the user/client need not know about will be stored away in this file as per project requirement.
   
   ## Credential storage area
-  private credentinals will be written in the project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
+  private credentinals (login details) will be written in the project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
   
   
   ## Licence
