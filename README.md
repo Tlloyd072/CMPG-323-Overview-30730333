@@ -37,6 +37,8 @@ IT Development - Project(s) Overview
   ## Credential storage area
   private credentinals (login details) will be written in the project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
   
+  ## References
+  All references used in the compilation of this project(s) will be found in the document per project.
   
   ## Licence
   MIT lincence 
