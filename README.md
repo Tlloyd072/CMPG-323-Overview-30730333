@@ -19,7 +19,10 @@ IT Development - Project(s) Overview
  ## Project 5 (Reporting & Monitoring)
   Repo -->
   
-  
+ ## Project & Repo Overview structure
+ The diagram belows maps out how the projects will be brought together.
+ .![IMG_20220815_101131_resized_20220815_101212041](https://user-images.githubusercontent.com/72937027/184672261-9235edff-bac5-455a-9662-506ce8a3f9dd.jpg)
+
   ## How will I deploy?
   Everything will be merged to the master (main) branch.
   
