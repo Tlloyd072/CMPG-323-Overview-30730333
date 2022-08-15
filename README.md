@@ -24,6 +24,8 @@ IT Development - Project(s) Overview
   Everything will be merged to the master (main) branch.
   ## Project & Repo structure overview
   The diagram below maps out how all the projects will be developed and how they will be stored.
+  ![project and repo structure](https://user-images.githubusercontent.com/72937027/184614243-b2bc5aee-d492-48b7-9433-d3688dc26df6.jpg)
+
  
   
   ## Branching strategy
