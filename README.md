@@ -8,7 +8,7 @@ IT Development - Project(s) Overview
   Repo --> [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git)
   
 ## Project 2 (API Development)
-  Repo --> [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git)
+  This repo, [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git), will store the API development code and data base for project 2.
   
 ## Project 3 (Standards & Patterns)
   Repo --> [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git)
