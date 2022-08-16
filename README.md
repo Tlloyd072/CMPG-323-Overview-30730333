@@ -17,7 +17,7 @@ IT Development - Project(s) Overview
   Repo --> [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git)
   
  ## Project 5 (Reporting & Monitoring)
-  Repo --> [CMPG 323 Project 5 30730333] 30730333](https://github.com/Tlloyd072/CMPG-323-Project-5-30730333.git)
+  Repo --> [CMPG 323 Project 5 30730333](https://github.com/Tlloyd072/CMPG-323-Project-5-30730333.git)
   
  ## Project & Repo Overview structure
  The diagram belows maps out how the projects will be brought together.
