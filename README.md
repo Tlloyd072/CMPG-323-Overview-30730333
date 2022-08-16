@@ -11,7 +11,7 @@ IT Development - Project(s) Overview
   Repo --> [API Dev 30730333](https://github.com/Tlloyd072/API-Dev-30730333.git)
   
 ## Project 3 (Standards & Patterns)
-  Repo --> [Standards and Patterns 30730333](https://github.com/Tlloyd072/Standards-and-Patterns-30730333.git)
+  Repo --> [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git)
   
  ## Project 4 (Testing and RPA)
   Repo --> [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git)
