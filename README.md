@@ -8,7 +8,7 @@ IT Development - Project(s) Overview
   Repo --> [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git)
   
 ## Project 2 (API Development)
-  Repo --> [API Dev 30730333](https://github.com/Tlloyd072/API-Dev-30730333.git)
+  Repo --> [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git)
   
 ## Project 3 (Standards & Patterns)
   Repo --> [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git)
