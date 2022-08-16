@@ -35,10 +35,10 @@ IT Development - Project(s) Overview
   All raw data (records in the database) that the user/client need not know about will be stored away in this file as per project requirement.
   
   ## Credential storage area
-  private credentinals (login details) will be written in the project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
+  private credentinals (login details) will be written in a project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
   
   ## References
-  All references used in the compilation of this project(s) will be found in the document per project.
+  All sources used in the compilation of this project(s) will be found in a document per project.
   
   ## Licence
   MIT lincence 
