@@ -18,7 +18,8 @@ to be enhanced and improved.
   Repo --> [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git)
   
  ## Project 5 (Reporting & Monitoring)
-  Repo --> [CMPG 323 Project 5 30730333](https://github.com/Tlloyd072/CMPG-323-Project-5-30730333.git)
+ [CMPG 323 Project 5 30730333](https://github.com/Tlloyd072/CMPG-323-Project-5-30730333.git) repo stores a report that will be built in Power BI. The report will provide detailed explanation on how stakeholders are to use the report developed.
+
   
  ## Project & Repo Overview structure
  The diagram belows maps out how the projects will be brought together.
