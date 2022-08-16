@@ -11,7 +11,7 @@ IT Development - Project(s) Overview
   This repo, [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git), will store the API development code and data base for project 2.
   
 ## Project 3 (Standards & Patterns)
-  [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git) repo stores the 
+  [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git) repo stores the core 
   
  ## Project 4 (Testing and RPA)
   Repo --> [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git)
