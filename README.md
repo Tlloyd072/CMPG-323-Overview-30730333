@@ -8,7 +8,7 @@ IT Development - Project(s) Overview
   [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git) repo stores the entire project.
   
 ## Project 2 (API Development)
-  This repo, [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git), will store the API development code and data base for project 2.
+  This repo, [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git) will store the API development code and data base for project 2. will store a created CRUD RESTful API that will connect to a database storing IoT device data. The API should contain at least one get, post, patch and delete method per resource – aligning to the project's requirements.
   
 ## Project 3 (Standards & Patterns)
   [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git) repo stores the existing ASP.NET Core MVC Web Application that will need
