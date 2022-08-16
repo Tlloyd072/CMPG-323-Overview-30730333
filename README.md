@@ -5,13 +5,13 @@ IT Development - Project(s) Overview
 
 
 ## Project 1 (Agile & Scrum)
-  Repo --> [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git)
+  [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git) repo stores the entire project.
   
 ## Project 2 (API Development)
   This repo, [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git), will store the API development code and data base for project 2.
   
 ## Project 3 (Standards & Patterns)
-  Repo --> [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git)
+  [CMPG 323 Project 3 30730333](https://github.com/Tlloyd072/CMPG-323-Project-3-30730333.git) repo stores the 
   
  ## Project 4 (Testing and RPA)
   Repo --> [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git)
