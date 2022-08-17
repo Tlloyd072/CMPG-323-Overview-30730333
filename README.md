@@ -52,7 +52,7 @@ to be enhanced and improved.
   project 5 - gitignore - this file will store records captured on a data source.
   
   
-  ## Credential storage area & sensetive information
+  ## Credential storage area & sensitive information
   private credentinals (login details) will be written in a project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
   
   ## References
