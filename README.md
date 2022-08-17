@@ -5,7 +5,7 @@ IT Development - Project(s) Overview
 
 
 ## Project 1 (Agile & Scrum)
-  [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git) repo stores the entire project. It is the foundation of all the projects to be built. In here is where the initital planning starts and the breeak down of tasks per project and their respective due dates.
+  [CMPG 323 Overview 30730333](https://github.com/Tlloyd072/CMPG-323-Overview-30730333.git) repo stores the entire project. It is the foundation of all the projects to be built. In here is where the initital planning starts and the break down of tasks per project and their respective due dates.
   
 ## Project 2 (API Development)
   This repo, [CMPG 323 Project 2 30730333](https://github.com/Tlloyd072/CMPG-323-Project-2-30730333.git) will store the API development code and data base for project 2. A created CRUD RESTful API that will connect to a database storing IoT device data. The API should contain at least one get, post, patch and delete method per resource – aligning to the project's requirements.
