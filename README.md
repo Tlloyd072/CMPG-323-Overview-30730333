@@ -40,6 +40,11 @@ to be enhanced and improved.
   
   ## gitignore file
   All raw data (records in the database) that the user/client need not know about will be stored away in this file as per project requirement.
+  project 1 gitignore - this will ignore the project (kanban) from uncauthorised collaborators to avoid data manipulation.
+  project 2 gitignore - this file will store the IoT device raw data captured on the data base as well as logins to the cloud server.
+  project 3 gitignore - this file wil store the code used in the development of the existing ASP.NET Core MVC Web Application that will need to be enhance and improved.
+  project 4 - gitignore - this file will store the data raad from Excel into a data table in UiPath.
+  project 5 - gitignore - this file will store records captured on a data source.
   
   ## Credential storage area
   private credentinals (login details) will be written in a project dcocument and will be shared with collaborators. Alternatively, a link to them could also be provided.
