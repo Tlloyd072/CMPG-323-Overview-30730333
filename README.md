@@ -47,7 +47,7 @@ to be enhanced and improved.
   
   project 3 gitignore - this file wil store the code used in the development of the existing ASP.NET Core MVC Web Application that will need to be enhance and improved.
   
-  project 4 - gitignore - this file will store the data raad from Excel into a data table in UiPath.
+  project 4 - gitignore - this file will store the data read from Excel into a data table in UiPath.
   
   project 5 - gitignore - this file will store records captured on a data source.
   
