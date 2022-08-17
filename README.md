@@ -24,7 +24,8 @@ to be enhanced and improved.
  ## Project & Repo Overview structure
  The diagram belows maps out how the projects will be brought together.
  
- ![IMG_20220815_101131_resized_20220815_101212041](https://user-images.githubusercontent.com/72937027/184672261-9235edff-bac5-455a-9662-506ce8a3f9dd.jpg)
+ ![project and repo structure](https://user-images.githubusercontent.com/72937027/185098032-3c961ffe-532e-4fff-9e1c-453462f06b00.jpg)
+
 
   ## How will I deploy?
   Everything will be merged to the master (main) branch.
