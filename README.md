@@ -33,7 +33,9 @@ to be enhanced and improved.
   ## Branching strategy
    GitLab Flow
    
-  For now all projects will be making use of two branches. The main branch will contain all projects and the project development branch will contain code that is currently in progress. Debbuging will also take place there. Once all files in the project development branch are fully functional and tested properly, only then will they be merged with the main branch. find branching strategy image attached. ![git_branch_merge](https://user-images.githubusercontent.com/72937027/184686605-b1e8e28c-8eba-4066-9677-cd446d9cf394.png)
+  For now all projects will be making use of two branches. The main branch will contain all projects and the project development branch will contain code that is currently in progress. Debbuging will also take place there. Once all files in the project development branch are fully functional and tested properly, only then will they be merged with the main branch. find branching strategy image attached.
+  
+  ![git_branch_merge](https://user-images.githubusercontent.com/72937027/184686605-b1e8e28c-8eba-4066-9677-cd446d9cf394.png)
   
   
 
