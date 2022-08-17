@@ -15,7 +15,7 @@ IT Development - Project(s) Overview
 to be enhanced and improved.
   
  ## Project 4 (Testing and RPA)
-  [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git) This repo will store the Testing and RPA.
+  [CMPG 323 Project 4 30730333](https://github.com/Tlloyd072/CMPG-323-Project-4-30730333.git) This repo will store the Testing and RPA code.
   
  ## Project 5 (Reporting & Monitoring)
  [CMPG 323 Project 5 30730333](https://github.com/Tlloyd072/CMPG-323-Project-5-30730333.git) repo stores a report that will be built in Power BI. The report will provide detailed explanation on how stakeholders are to use the report developed.
