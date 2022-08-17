@@ -22,7 +22,7 @@ to be enhanced and improved.
 
   
  ## Project & Repo Overview structure
- The diagram belows maps out how the projects will be brought together.
+ The diagram belows maps out how the project(s) will be brought together via different branches.
  
  ![project and repo structure](https://user-images.githubusercontent.com/72937027/185098032-3c961ffe-532e-4fff-9e1c-453462f06b00.jpg)
 
