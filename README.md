@@ -20,6 +20,8 @@ to be enhanced and improved.
  ## Project 5 (Reporting & Monitoring)
  [CMPG 323 Project 5 30730333](https://github.com/Tlloyd072/CMPG-323-Project-5-30730333.git) repo stores a report that will be built in Power BI. The report will provide detailed explanation on how stakeholders are to use the report developed.
 
+## Homework - 
+[application and design patterns] (https://github.com/Tlloyd072/HomeworkAssignment.git)
   
  ## Project & Repo Overview structure
  The diagram belows maps out how the project(s) will be brought together via different branches.
