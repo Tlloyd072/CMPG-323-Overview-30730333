@@ -60,5 +60,5 @@ to be enhanced and improved.
   ## References
   All sources used in the compilation of this project(s) will be found in a document per project.
   
-  ## Licence
-  MIT lincence 
+  ## License
+  MIT lincense 
